@@ -1,3 +1,3 @@
 # Website-Projeto-DMRecycling
- Primeiro projeto desenvolvido para um cliente, utilizando HTML E CSS puro.
+ Primeiro projeto desenvolvido para um cliente, utilizando HTML, CSS e Mailchimp.
  
